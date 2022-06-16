@@ -1,0 +1,25 @@
+{
+	title: "Age 6: Automation Age",
+	icon: "rftools:machine_frame",
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"d04fc958"
+	],
+	tasks: [{
+		uid: "b1d3fd72",
+		type: "item",
+		icon: "rftools:machine_frame",
+		items: [{
+			item: "rftools:machine_frame"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "2492f0c8",
+		type: "command",
+		title: "Age 6 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"rftools:machine_frame\",Count:1b,Damage:0s},TrophyName:\"Age 6\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Age 13: Draconic Age",
+	icon: "draconicevolution:draconic_core",
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"ad822cae"
+	],
+	tasks: [{
+		uid: "ac8ff855",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}],
+	rewards: [{
+		uid: "4e3d0985",
+		type: "command",
+		title: "Age 13 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"draconicevolution:draconic_core\",Count:1b,Damage:0s},TrophyName:\"Age 13\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

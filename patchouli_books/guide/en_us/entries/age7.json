@@ -1,0 +1,27 @@
+{
+    "name": "Age 7: Replication Age",
+    "icon": "ic2:te:62",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Now that you can create Machine Frames and the Modular Storage you can start working on replicating things with UU-Matter. You should work on getting 3 key items:"
+        },
+        {
+            "type": "text",
+            "text": "1.) Iridium Plates, which you get from replicating Iridium in the Replicator. You need one Iridium first from 9 Iridium Shards in Dungeon Chests. Beside of the Replicator you need the Pattern Storage and the Scanner and for creating UU-Matter you need a Mass Fabricator and a lot of energy. To save some energy creating Scrap in a Recycler is recommended. To generate the power a Nuclear Reactor is basically required."
+        },
+        {
+            "type": "text",
+            "text": "2.) IC2 Plutonium, which you get from depleted fuel rods using the Thermal Centrifuge. Depending if you want more power or more Plutonium there are different recommended Reactor Designs you can look up online. Also you should consider trying out a Fluid Reactor producing Superheated Steam for more power efficiency."
+        },
+        {
+            "type": "text",
+            "text": "3.) Basalt, which you get from cooling Pahoehoe Lava in the world by either waiting or placing IC2 Coolant beside it. Pahoehoe Lava is a side product from using Lava in a Liquid Heat Exchanger.$(br2)With IC2 Plutonium you are now able to use Deep Resonance Crystals to make power and use Advanced Generators Steam or Gas Turbines to generate RF or EU."
+        },
+        {
+            "type": "text",
+            "text": "Note: For Advanced Generators you need Pure Certus Quartz and the only way to make it is to wait a couple of hours for them, so be sure to make them in advance. Also you should make some extras and Pure Fluix Crystals as well which you will need when you start AE2. With Basalt you can now go into the Deep Dark for mining more resources."
+        }
+    ]
+}

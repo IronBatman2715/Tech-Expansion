@@ -1,0 +1,15 @@
+{
+    "name": "Age 8: Atomic Age",
+    "icon": "calculator:atomiccalculator",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "With Iridium you can now unlock the rest of Calculator. You should make an Atomic Calculator and then a Flawless Calculator. This enables you to make a more efficient Circuit Production and a Circuit Storage. Also you can now create passive power with the Conductor Mast or the Calculator Locator w/ Plugs (you need IC2 Plutonium for that)."
+        },
+        {
+            "type": "text",
+            "text": "Tip: Investing in making a Diamond Sapling should pay off really fast. With End Diamonds you can now make the SolarFluxReborn Solar Panel IV (128 RF/t) and V (512 RF/t)."
+        }
+    ]   
+}

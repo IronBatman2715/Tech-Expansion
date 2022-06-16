@@ -1,0 +1,24 @@
+{
+	title: "Age 8: Atomic Age",
+	icon: "calculator:atomiccalculator",
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"ad48a62a"
+	],
+	tasks: [{
+		uid: "8088b56b",
+		type: "item",
+		items: [{
+			item: "calculator:atomiccalculator"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "e4c5d280",
+		type: "command",
+		title: "Age 8 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"calculator:atomiccalculator\",Count:1b,Damage:0s},TrophyName:\"Age 8\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

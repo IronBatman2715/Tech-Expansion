@@ -1,0 +1,28 @@
+{
+	title: "Creative Gases",
+	x: -1.0d,
+	y: 3.0d,
+	shape: "octagon",
+	dependencies: [
+		"347962d4"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "6871f89b",
+		type: "item",
+		items: [{
+			id: "mekanism:gastank",
+			tag: {
+				tier: 4
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cb169cd0",
+		type: "command",
+		title: "Creative Gases Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"mekanism:gastank\",Count:1b,Damage:0s},TrophyName:\"Creative Gases\",TrophyColorRed:0,TrophyColorGreen:255,TrophyColorBlue:255,TrophyVariant:\"gold\"}"
+	}]
+}

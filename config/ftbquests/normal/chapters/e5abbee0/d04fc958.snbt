@@ -1,0 +1,24 @@
+{
+	title: "Age 5: Ender Age",
+	icon: "enderio:item_material 1 1",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"bc40e936"
+	],
+	tasks: [{
+		uid: "593f6b65",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 1"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "ba4f30db",
+		type: "command",
+		title: "Age 5 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"enderio:item_material\",Count:1b,Damage:1s},TrophyName:\"Age 5\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

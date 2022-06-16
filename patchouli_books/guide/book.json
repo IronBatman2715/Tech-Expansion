@@ -1,0 +1,8 @@
+{
+	"name": "Tech Expansion Guide",
+    "subtitle": "by _____",
+    "landing_text": "This guide book will provide you with direction and tips to progress through $(l:https://www.curseforge.com/minecraft/modpacks/tech-expansion)Tech Expansion (TE)$(), a tech-based gated modpack. This pack is very similar to its $(l:https://www.curseforge.com/minecraft/modpacks/age-of-engineering)predecessor$(). Reading this guide is $(l)not$() mandatory. You can complete the pack solely by reading JEI and following FTB Quests if you want.",
+    "version": 1,
+    "show_toasts": false,
+    "show_progress": false
+}

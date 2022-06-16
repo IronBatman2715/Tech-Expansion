@@ -1,0 +1,24 @@
+{
+	title: "Creative Items",
+	x: -3.0d,
+	y: 3.0d,
+	shape: "gear",
+	dependencies: [
+		"4945b64f"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "0329372c",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_creative 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "33b39f5d",
+		type: "command",
+		title: "Creative Items Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"storagedrawers:upgrade_creative\",Count:1b,Damage:1s},TrophyName:\"Creative Items\",TrophyColorRed:80,TrophyColorGreen:200,TrophyColorBlue:120,TrophyVariant:\"gold\"}"
+	}]
+}

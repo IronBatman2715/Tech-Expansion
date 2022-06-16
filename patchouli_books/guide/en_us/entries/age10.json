@@ -1,0 +1,28 @@
+{
+    "name": "Age 10: Technology Age",
+    "icon": "techreborn:machine_frame",
+    "category": "patchouli:Age Guide",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The NuclearCraft Fluid Infuser is capable of turning iron ingots and liquid carbon into TechReborn's Refined Iron. This means you can now craft a Machine Frame and start with TechReborn. TechReborn requires EU, RF support is disabled for this pack."
+        },
+        {
+            "type": "text",
+            "text": "With the Industrial Electrolyzer you can make Titanium (from Bauxite) and Chrome (from Rubies). These are needed to advance to the next age.$(br2)Then you should work towards the Industrial Blast Furnace which needs a 3x3x4 multiblock of Reinforced or Advanced Machine Casings attached (Advanced Machine Casings increase temperature) behind it. You can also use the Immersive Engineering Arc Furnace which is a lot faster."
+        },
+        {
+            "type": "text",
+            "text": "The Industrial Grinder might prove helpful so that you can get additional items from grinding ores. You need a multiblock behind it, 3x3x3 in size, 18 Standard Machine Casings (3x3 on the top and bottom), 8 Reinforced Machine Casings (3x3 hollow in the middle) and a Water Source in the middle.$(br2)Later on you also need to make Iridium Ingots. Iridium you get from Sheldonite or Platinum."
+        },
+        {
+            "type": "text",
+            "text": "To make Tungstensteel you need to have the Industrial Blast Furnace with a lot of Advanced Machine Casings to give the right temperature and cool the hot Tungstensteel in a Vaccum Freezer. The Vaccum Freezer needs a 3x3x3 multiblock with 6 Advanced Machine Casings (one in the center on each side) and the rest Reinforced Machine Casings (the center is hollow). Also the Vacuum Freezer needs Ice Shards from bees."
+        },
+        {
+            "type": "text",
+            "text": "In the late game you can make a Fusion Reactor, for which you need 24 additional Fusion Coils which you place in a circle around the Fusion Reactor. Then, with a lot of power to prime and Deuterium and Tritium Cells (or Helium3 Cells) you can create a lot of power and is the key to create Heliumplasma."
+        }
+    ]
+}

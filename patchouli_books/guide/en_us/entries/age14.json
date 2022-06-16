@@ -1,0 +1,28 @@
+{
+    "name": "Age 14: Creative Age",
+    "icon": "extrautils2:angelring",
+    "category": "patchouli:Age Guide",
+    "sortnum": 14,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Now you can start to think about getting creative items. The first thing you can get is creative flight with the Angel Ring. The Angel Ring needs grid power, but you can upgrade it to the Wings of the Bats which is cost free flight.$(br2)Using the following creative items to your advantage will prove useful in obtaining the next creative item."
+        },
+        {
+            "type": "text",
+            "text": "You can start work towards creative RF power with the Creative Capacitor Bank from EnderIO which needs a Chaotic Core (so you need to kill the Chaos Dragon, the most powerful boss in the game). You can also get creative EU power with the Quantum Generator and creative Joules power with the Creative Energy Cube from Mekanism by just exchanging those items in your crafting grid."
+        },
+        {
+            "type": "text",
+            "text": "You can put the Atomic Multiplier from Calculator to good use here. It replicates items for the cost of 7 circuits and 1.5 $(o)BILLION$() RF. Be aware though that some items are blacklisted.$(br2)For fluids, you can craft the Creative Fluid Tank from Mekanism. This needs 4 creative energy blocks and 5 Ultimate fluid tanks filled with Empowered Oil(top), IC2 Hot Coolant(left), Vapor of Levity(middle), Biodiesel(right), and NuclearCraft's Helium-3(bottom)."
+        },
+        {
+            "type": "text",
+            "text": "For gasses, you can craft the Creative Gas Tank from Mekanism. The Advanced Gas Tanks must be filled with Clean Osmium Slurry (top), Hydrogen Chloride (left), Sodium (center), Ethylene (right) and D-T Fuel (bottom)). To set the Creative Gas Tank to a certain gas, you should use a Gauge Dropper."
+        },
+        {
+            "type": "text",
+            "text": "The final challenge is to get the Creative Vending Upgrade from Storage Drawers. If you really managed to get the Creative Vending Upgrade, CONGRATS! You've beaten the game. (Make sure you duplicate the Creative Vending Upgrade in your Crafting Grid a couple of times or to make a drawer of Creative Vending Upgrades by inputting with pipes/hopper as those Upgrades are one-use only.)"
+        }
+    ]
+}

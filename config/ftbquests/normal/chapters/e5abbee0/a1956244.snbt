@@ -1,0 +1,22 @@
+{
+	title: "Age 0: Stone Age",
+	icon: "minecraft:cobblestone",
+	x: -3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "907407bf",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2ffaea9f",
+		type: "toast",
+		title: "Check the guide for tips! Craft another guide with one book!",
+		icon: "forestry:gear_bronze",
+		auto: "enabled"
+	}]
+}

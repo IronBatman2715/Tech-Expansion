@@ -1,0 +1,23 @@
+{
+    "name": "Age 5: Ender Age",
+    "icon": "enderio:item_material:1",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The next tech mod is EnderIO. Which, as you have probably already found, has simple machines disabled in this pack.$(br2)The industrial machine chassis needs the Carpenter and a lot of Seed Oil which you should easily squeeze from the seeds from your farms. Speaking of farms, with EnderIO you can now craft a Farming Station as well Spawners, better item and power transportation."
+        },
+        {
+            "type": "text",
+            "text": "You also have the Inventory Panel, which runs on Nutrient Distillation$(br2)A lot of new power options opened up with the Stirling, Combustion and Zombie Generators, more Solar Panels such as the Solar Panel III and the Advanced Solar Panel.$(br2)Also you can now craft the Heavy Engineering Block, so that you can go for BioDiesel power (4096 RF/t) or for example for the Excavator."
+        },
+        {
+            "type": "text",
+            "text": "You should also start now getting into EnvironmentalTech as both the Void Resource Miner as well the Void Ore Miner are required for future progression. The Solar Panel and the Lightning Rod are also both nice for power generation. EnvironmentalTech has an in-game manual, the Digital Guide, if you want to read more about it.$(br2)Before you can progress, you have to go to the End if you haven't done it already."
+        },
+        {
+            "type": "text",
+            "text": "You have no way to get a Jetpack yet as all of them need an Elytra, which is one goal for going to the End. But it is recommended to make Dark Steel Armor with a Glider attached to it, that's the closest you can get to flight. (Every recipe that needs an Elytra returns the Elytra to you upon crafting. The same is true for returning jetpacks in EnvironmentalTech's Creative Flight Modifier and Extra Utilities' Angel Ring where you get the Jetpack back)"
+        }
+    ]
+}

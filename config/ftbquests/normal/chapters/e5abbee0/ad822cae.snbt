@@ -1,0 +1,23 @@
+{
+	title: "Age 12: Mechanical Age",
+	icon: "mekanism:basicblock 1 8",
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"6fe0d422"
+	],
+	tasks: [{
+		uid: "8fab4750",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "507a15cb",
+		type: "command",
+		title: "Age 12 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"mekanism:basicblock\",Count:1b,Damage:8s},TrophyName:\"Age 12\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Age 2: Calculation Age",
+	icon: {
+		id: "calculator:calculator",
+		tag: {}
+	},
+	x: 0.0d,
+	y: -1.5d,
+	dependencies: [
+		"6229f3e2"
+	],
+	tasks: [{
+		uid: "6792a542",
+		type: "item",
+		items: [{
+			id: "calculator:calculator",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4845b011",
+		type: "command",
+		title: "Age 2 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"calculator:calculator\",Count:1b,Damage:0s},TrophyName:\"Age 2\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

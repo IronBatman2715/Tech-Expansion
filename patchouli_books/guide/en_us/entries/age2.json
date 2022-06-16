@@ -1,0 +1,27 @@
+{
+    "name": "Age 2: Calculation Age",
+    "icon": "calculator:calculator",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "To generate your first RF power you have three options: 1.) the Hand Cranked Generator from Calculator. You need to put a Crank Handle on it and keep right clicking to generate power. 2.) the Clockwork Engine from Forestry. Right clicking charges it up and after stopping it generates a little bit of power for a while. 3.) the Survival Generator from ExtraUtils2."
+        },
+        {
+            "type": "text",
+            "text": "It generates less power but needs no maintenance. To store power the only option is the power cube from Calculator. It only stores power and can charge items, but it doesn't output power to other blocks. Next you need to craft a Calculator and charge it in the Power Cube. Now you can also generate power with the Peat-fired Engine. You get Peat from Bog Earth which is placed next to water (within a range of 2 blocks)."
+        },
+        {
+            "type": "text",
+            "text": "Also you can craft a Coal Generator from Actually Additions now. To progress further you need the Atomic Reconstructor from Actually Additions. Per default it's always on, you can toggle the Redstone mode by right clicking it with a Redstone Torch, then it activates its laser with a Button Press. Now you can get Restonia and Enori for example if you put Redstone (Blocks) or Iron (Blocks) respectively in front of its laser and activate it."
+        },
+        {
+            "type": "text",
+            "text": "This now opens generating, storing and using power for everything from Progressive Automation which includes automatically crafting, farming, mining and killing. Also you can now craft a lot from Immersive Engineering like the Kinetic Dynamo for Water Wheels and Wind Mills, a much better Power Storage in the Capacitors and transfering power through the wires and connectors. "
+        },
+        {
+            "type": "text",
+            "text": "You can now craft Solar Flux Reborn's Solar Panels I. Another useful block is the Energizer/Enervator from Actually Additions to (dis)charge items. You can also use the Atomic Reconstructor with the Lens of the Miner as a way to mine resources. Integrated Dynamics is now available for automation purposes."
+        }
+    ]
+}

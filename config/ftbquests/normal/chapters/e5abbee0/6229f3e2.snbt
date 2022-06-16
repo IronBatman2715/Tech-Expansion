@@ -1,0 +1,26 @@
+{
+	title: "Age 1: Industrial Age",
+	icon: "ic2:forge_hammer",
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"a1956244"
+	],
+	tasks: [{
+		uid: "79cf02a0",
+		type: "item",
+		items: [{
+			item: "ic2:forge_hammer"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "930d34c8",
+		type: "command",
+		title: "Age 1 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"ic2:forge_hammer\",Count:1b,Damage:0s},TrophyName:\"Age 1\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

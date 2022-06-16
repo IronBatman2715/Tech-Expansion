@@ -1,0 +1,24 @@
+{
+	title: "Age 14: Creative Age",
+	icon: "extrautils2:angelring",
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"edaabe2b"
+	],
+	tasks: [{
+		uid: "aa8751b8",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelring"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4507f382",
+		type: "command",
+		title: "Age 14 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"extrautils2:angelring\",Count:1b,Damage:0s},TrophyName:\"Age 14\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

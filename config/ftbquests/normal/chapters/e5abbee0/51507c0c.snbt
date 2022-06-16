@@ -1,0 +1,23 @@
+{
+	title: "Age 9: Nuclear Age",
+	icon: "nuclearcraft:part 1 10",
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"03f6ed11"
+	],
+	tasks: [{
+		uid: "5e3539af",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "607ed3cd",
+		type: "command",
+		title: "Age 9 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"nuclearcraft:part\",Count:1b,Damage:10s},TrophyName:\"Age 9\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

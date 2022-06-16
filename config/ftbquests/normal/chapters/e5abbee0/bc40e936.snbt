@@ -1,0 +1,23 @@
+{
+	title: "Age 4: Farming Age",
+	icon: "forestry:sturdy_machine",
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"7e533bdc"
+	],
+	tasks: [{
+		uid: "c1ead557",
+		type: "item",
+		items: [{
+			item: "forestry:sturdy_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "db74b785",
+		type: "command",
+		title: "Age 4 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"forestry:sturdy_machine\",Count:1b,Damage:0s},TrophyName:\"Age 4\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

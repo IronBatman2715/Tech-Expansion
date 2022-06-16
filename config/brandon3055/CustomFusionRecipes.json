@@ -1,0 +1,210 @@
+[
+    {
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]",
+        "catalyst": "[actuallyadditions:block_crystal]",
+        "energy": 1000000,
+        "tier": 0,
+        "ingredients": [
+            "[extrautils2:ingredients]",
+            "[minecraft:dye]:1",
+            "[tconstruct:ingots]:1",
+            "[techreborn:gem]:3"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]:1",
+        "catalyst": "[actuallyadditions:block_crystal]:1",
+        "energy": 2000000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:fish]",
+            "[minecraft:prismarine_shard]",
+            "[tconstruct:ingots]",
+            "[tconstruct:materials]:10"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]:2",
+        "catalyst": "[actuallyadditions:block_crystal]:2",
+        "energy": 5000000,
+        "tier": 0,
+        "ingredients": [
+            "[forestry:ash]",
+            "[integrateddynamics:crystalized_menril_chunk]",
+            "[forestry:fertilizer_compound]",
+            "[ic2:dust]:11"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]:3",
+        "catalyst": "[actuallyadditions:block_crystal]:3",
+        "energy": 3000000,
+        "tier": 0,
+        "ingredients": [
+            "[actuallyadditions:item_misc]:5",
+            "[immersiveengineering:material]:6",
+            "[tconstruct:materials]:17",
+            "[minecraft:dye]"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]:4",
+        "catalyst": "[actuallyadditions:block_crystal]:4",
+        "energy": 6000000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:cactus]",
+            "[ic2:nuclear]:2",
+            "[calculator:cookedbroccoli]",
+            "[tconstruct:materials]:9"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:block_crystal_empowered]:5",
+        "catalyst": "[actuallyadditions:block_crystal]:5",
+        "energy": 4000000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:snow]",
+            "[ic2:dust]:15",
+            "[minecraft:bone_block]",
+            "[minecraft:ghast_tear]"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]",
+        "catalyst": "[actuallyadditions:item_crystal]",
+        "energy": 100000,
+        "tier": 0,
+        "ingredients": [
+            "[extrautils2:ingredients]",
+            "[minecraft:dye]:1",
+            "[tconstruct:ingots]:1",
+            "[techreborn:gem]:3"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]:1",
+        "catalyst": "[actuallyadditions:item_crystal]:1",
+        "energy": 200000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:fish]",
+            "[minecraft:prismarine_shard]",
+            "[tconstruct:ingots]",
+            "[tconstruct:materials]:10"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]:2",
+        "catalyst": "[actuallyadditions:item_crystal]:2",
+        "energy": 500000,
+        "tier": 0,
+        "ingredients": [
+            "[forestry:ash]",
+            "[integrateddynamics:crystalized_menril_chunk]",
+            "[forestry:fertilizer_compound]",
+            "[ic2:dust]:11"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]:3",
+        "catalyst": "[actuallyadditions:item_crystal]:3",
+        "energy": 300000,
+        "tier": 0,
+        "ingredients": [
+            "[actuallyadditions:item_misc]:5",
+            "[immersiveengineering:material]:6",
+            "[tconstruct:materials]:17",
+            "[minecraft:dye]"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]:4",
+        "catalyst": "[actuallyadditions:item_crystal]:4",
+        "energy": 600000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:cactus]",
+            "[ic2:nuclear]:2",
+            "[calculator:cookedbroccoli]",
+            "[tconstruct:materials]:9"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_crystal_empowered]:5",
+        "catalyst": "[actuallyadditions:item_crystal]:5",
+        "energy": 400000,
+        "tier": 0,
+        "ingredients": [
+            "[minecraft:snow]",
+            "[ic2:dust]:15",
+            "[minecraft:bone_block]",
+            "[minecraft:ghast_tear]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[actuallyadditions:item_misc]:24",
+        "catalyst": "[actuallyadditions:item_misc]:23",
+        "energy": 990,
+        "tier": 0,
+        "ingredients": [
+            "[actuallyadditions:item_canola_seed]",
+            "[actuallyadditions:item_canola_seed]",
+            "[actuallyadditions:item_canola_seed]",
+            "[actuallyadditions:item_canola_seed]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:material]:10",
+        "catalyst": "[appliedenergistics2:material]",
+        "energy": 2500000,
+        "tier": 0,
+        "ingredients": [
+            "[appliedenergistics2:crystal_seed]",
+            "[appliedenergistics2:crystal_seed]",
+            "[appliedenergistics2:crystal_seed]",
+            "[appliedenergistics2:crystal_seed]"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:material]:12",
+        "catalyst": "[appliedenergistics2:material]:7",
+        "energy": 2500000,
+        "tier": 0,
+        "ingredients": [
+            "[appliedenergistics2:crystal_seed]:1200",
+            "[appliedenergistics2:crystal_seed]:1200",
+            "[appliedenergistics2:crystal_seed]:1200",
+            "[appliedenergistics2:crystal_seed]:1200"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "[appliedenergistics2:material]:11",
+        "catalyst": "[minecraft:quartz]",
+        "energy": 2500000,
+        "tier": 0,
+        "ingredients": [
+            "[appliedenergistics2:crystal_seed]:600",
+            "[appliedenergistics2:crystal_seed]:600",
+            "[appliedenergistics2:crystal_seed]:600",
+            "[appliedenergistics2:crystal_seed]:600"
+        ]
+    }
+]

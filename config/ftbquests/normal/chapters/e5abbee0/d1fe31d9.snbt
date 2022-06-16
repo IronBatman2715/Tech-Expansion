@@ -1,0 +1,28 @@
+{
+	title: "Creative Energy",
+	x: 3.0d,
+	y: 3.0d,
+	shape: "octagon",
+	dependencies: [
+		"ef9f4b8f"
+	],
+	hide: true,
+	size: 1.5d,
+	tasks: [{
+		uid: "882a44cf",
+		type: "item",
+		items: [{
+			id: "enderio:block_cap_bank",
+			tag: {
+				"enderio:energy": 50000000
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "8002747e",
+		type: "command",
+		title: "Creative Energy Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"enderio:block_cap_bank\",Count:1b,Damage:0s},TrophyName:\"Creative Energy\",TrophyColorRed:192,TrophyColorGreen:192,TrophyColorBlue:192,TrophyVariant:\"gold\"}"
+	}]
+}

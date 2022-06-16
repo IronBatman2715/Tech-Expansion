@@ -1,0 +1,27 @@
+{
+    "name": "Age 4: Farming Age",
+    "icon": "forestry:sturdy_machine",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The Sturdy Casing is needed for basically all Forestry machines and can be crafted in the Empowerer for 2 M RF. With the Thermionic Fabricator you're now able to make Multifarms. The Tubes need Redstone Ingots and Thickened Glass while the Fabricator itself also needs Thickened glass. If you want to change the farms you need Circuit Boards."
+        },
+        {
+            "type": "text",
+            "text": "For that you need Calculator Circuit Processing. The Extraction Chamber extracts circuits with a chance of 12.5% from Dirt or Cobblestone. Later you can use the Precision Chamber for a 100% chance. Damaged Circuits get repaired in the Reassembly Chamber while Dirty Circuits get cleaned in the Restoration Chamber. The Processing Chamber can do both, but is also not available yet."
+        },
+        {
+            "type": "text",
+            "text": "Then the Circuits need to be analyzed in the Analysing Chamber which needs no power and gets you some byproducts. Some circuits may turn out stable. You can then store the analyzed Circuits in the Storage Chamber which you can craft later. The Circuits for the Circuit Boards need to be exactly the same which means same texture, analyzed and not stable. To automate those machines you can use the PA Wrench to change the color of the block sides which match the color of the slots the GUI."
+        },
+        {
+            "type": "text",
+            "text": "You should also start Bee and Tree Breeding as you need it later. If you are new to bee breeding, I recommend referencing wikis or youtube tutorials. You should work towards an Alveary which means Industrious and Imperial Bees. Those bees all need Normal Temperature and Humidity and only work during the day, so the perfect spot to mutate them is in the Mining Dimension which you can access from wherever you settled."
+        },
+        {
+            "type": "text",
+            "text": "Tree Breeding is especially nice for Seed Oil, working towards Cherry and Nut trees should be your first goal.$(br2)Once you have an Alveary, you can make an Industrial Apiary. However, gendustry's controlled mutation mechanics aren't available until Age 9."
+        }
+    ]
+}

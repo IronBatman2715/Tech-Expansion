@@ -1,0 +1,15 @@
+{
+    "name": "Age 6: Automation Age",
+    "icon": "rftools:machine_frame",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "With End Rods you can make RFTools Machine Frames (If the Carpenter doesn't accept Nutrient Distillation for some reason, breaking and replacing the Carpenter fixes it). This opens up better automation and autocrafting with RFTools Control, the Builder Quarry, Energy and Player Teleportation (Power Cells and Dimensional Transceivers respectively), Modular Storage and much more."
+        },
+        {
+            "type": "text",
+            "text": "Side Note: As you should have some form of automated mining before moving to age 7, it might be worth mentioning that you should stop auto-processing Bauxite Ore if you have sufficient Aluminum as you will need Bauxite Dust in Age 10 unsmelted to be able to get Titanium."
+        }
+    ]
+}

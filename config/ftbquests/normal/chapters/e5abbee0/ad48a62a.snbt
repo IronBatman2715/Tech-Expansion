@@ -1,0 +1,25 @@
+{
+	title: "Age 7: Replication Age",
+	icon: "ic2:te 1 62",
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"44b422ed"
+	],
+	tasks: [{
+		uid: "e29eb2a8",
+		type: "item",
+		icon: "ic2:te 1 62",
+		items: [{
+			item: "ic2:te 1 62"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "ecb642cb",
+		type: "command",
+		title: "Age 7 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"ic2:te\",Count:1b,Damage:62s},TrophyName:\"Age 7\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

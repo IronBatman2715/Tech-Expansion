@@ -1,0 +1,390 @@
+<galaxy>
+    <star name="Sun" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
+		<planet name="Mercury" DIMID="1001" customIcon="moon">
+            <isKnown>true</isKnown>
+			<skyColor>0,0,0</skyColor>
+			<atmosphereDensity>10</atmosphereDensity>
+			<gravitationalMultiplier>40</gravitationalMultiplier>
+			<orbitalDistance>25</orbitalDistance>
+			<rotationalPeriod>1400000</rotationalPeriod>
+			<oreGen>
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="12" chancePerChunk="10" />
+			</oreGen>
+        </planet>
+		<planet name="Venus" DIMID="1002" customIcon="marslike">
+			<isKnown>true</isKnown>
+            <skyColor>0,0,0</skyColor>
+			<fogColor>0.9,0.9,0.9</fogColor>
+			<atmosphereDensity>195</atmosphereDensity>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>65</orbitalDistance>
+			<rotationalPeriod>2808000</rotationalPeriod>
+        </planet>
+		<planet name="Earth" DIMID="0" dimMapping="" customIcon="earthlike">
+			<isKnown>true</isKnown>
+            <planet name="Luna" DIMID="1003" customIcon="moon">
+				<atmosphereDensity>5</atmosphereDensity>
+				<gravitationalMultiplier>20</gravitationalMultiplier>
+				<orbitalDistance>120</orbitalDistance>
+            </planet>
+		</planet>
+		<planet name="Mars" DIMID="1004" customIcon="marslike">
+			<isKnown>true</isKnown>
+            <skyColor>1,0.2,0</skyColor>
+			<fogColor>0.9,0.6,0.1</fogColor>
+			<atmosphereDensity>20</atmosphereDensity>
+			<orbitalDistance>125</orbitalDistance>
+			<gravitationalMultiplier>75</gravitationalMultiplier>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<biomeIds>advancedrocketry:hotdryrock,advancedrocketry:volcanic,advancedrocketry:volcanicbarren</biomeIds>
+			<oreGen>
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="12" chancePerChunk="10" />
+			</oreGen>
+            <planet name="Phobos" DIMID="1005" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>10000</rotationalPeriod>
+            </planet>
+			<planet name="Deimos" DIMID="1006" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>180</orbitalPhi>
+				<rotationalPeriod>14000</rotationalPeriod>
+            </planet>
+        </planet>
+        <planet name="Ceres" DIMID="1007" customIcon="moon">
+			<isKnown>true</isKnown>
+            <skyColor>0.2,0.2,0.2</skyColor>
+			<atmosphereDensity>30</atmosphereDensity>
+			<orbitalDistance>130</orbitalDistance>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<rotationalPeriod>8880</rotationalPeriod>
+        </planet>
+		<planet name="Jupiter" DIMID="1008" customIcon="gasgiantred">
+			<isKnown>true</isKnown>
+            <GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+			<orbitalDistance>160</orbitalDistance>
+			<planet name="Io" DIMID="1009" customIcon="moon">
+				<isKnown>true</isKnown>
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>8000</rotationalPeriod>
+            </planet>
+			<planet name="Europa" DIMID="1010" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>90</orbitalDistance>
+				<orbitalPhi>90</orbitalPhi>
+				<rotationalPeriod>10000</rotationalPeriod>
+            </planet>
+            <planet name="Ganymede" DIMID="1011" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>110</orbitalDistance>
+				<orbitalPhi>180</orbitalPhi>
+				<rotationalPeriod>12000</rotationalPeriod>
+            </planet>
+			<planet name="Callisto" DIMID="1012" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>270</orbitalPhi>
+				<rotationalPeriod>14000</rotationalPeriod>
+            </planet>
+        </planet>
+		<planet name="Saturn" DIMID="1013" customIcon="gasgiantred">
+			<isKnown>true</isKnown>
+			<hasRings>true</hasRings>
+            <GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+			<orbitalDistance>200</orbitalDistance>
+			<planet name="Rhea" DIMID="1014" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>9000</rotationalPeriod>
+            </planet>
+			<planet name="Titan" DIMID="1015" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>100</orbitalDistance>
+				<orbitalPhi>120</orbitalPhi>
+				<rotationalPeriod>12000</rotationalPeriod>
+				<oreGen>
+					<ore block="libvulpes:ore0" meta="8" minHeight="1" maxHeight="16" clumpSize="8" chancePerChunk="2" />
+				</oreGen>
+            </planet>
+			<planet name="Iapetus" DIMID="1016" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>240</orbitalPhi>
+				<rotationalPeriod>15000</rotationalPeriod>
+            </planet>
+        </planet>
+		<planet name="Uranus" DIMID="1017" customIcon="gasgiantblue">
+			<isKnown>true</isKnown>
+			<hasRings>true</hasRings>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+            <skyColor>0,0.9,1</skyColor>
+			<fogColor>0.9,0.9,0.9</fogColor>
+			<orbitalDistance>250</orbitalDistance>
+			<planet name="Titania" DIMID="1018" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>80</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>9000</rotationalPeriod>
+				<oreGen>
+					<ore block="libvulpes:ore0" meta="8" minHeight="1" maxHeight="16" clumpSize="8" chancePerChunk="2" />
+				</oreGen>
+            </planet>
+			<planet name="Oberon" DIMID="1019" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>120</orbitalDistance>
+				<orbitalPhi>180</orbitalPhi>
+				<rotationalPeriod>13000</rotationalPeriod>
+            </planet>
+        </planet>
+		<planet name="Neptune" DIMID="1020" customIcon="gasgiantblue">
+			<isKnown>true</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+            <skyColor>0,0.5,1</skyColor>
+			<atmosphereDensity>0</atmosphereDensity>
+			<orbitalDistance>280</orbitalDistance>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<rotationalPeriod>16100</rotationalPeriod>
+			<planet name="Triton" DIMID="1021" customIcon="moon">
+				<atmosphereDensity>0</atmosphereDensity>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>140</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>17000</rotationalPeriod>
+            </planet>
+        </planet>
+        <planet name="Pluto" DIMID="1022" customIcon="moon">
+			<isKnown>true</isKnown>
+			<atmosphereDensity>0</atmosphereDensity>
+			<orbitalDistance>310</orbitalDistance>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<rotationalPeriod>153000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="12" chancePerChunk="10" />
+			</oreGen>
+        </planet>
+		<planet name="Eris" DIMID="1023" customIcon="moon">
+			<isKnown>true</isKnown>
+			<atmosphereDensity>0</atmosphereDensity>
+			<orbitalDistance>330</orbitalDistance>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<rotationalPeriod>25900</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="12" chancePerChunk="10" />
+			</oreGen>
+		</planet>
+    </star>
+	<star name="Alpha Centauri AB" temp="100" x="100" y="-25" numPlanets="0" numGasGiants="0">
+		<planet name="Melmac" DIMID="1100">
+            <skyColor>0,1,0</skyColor>
+			<fogColor>0,0,1</fogColor>
+			<atmosphereDensity>0</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>90</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>
+        </planet>
+		<planet name="Rigel VII" DIMID="1101">
+			<skyColor>1,0,1</skyColor>
+			<fogColor>1,0,0.5</fogColor>
+			<atmosphereDensity>0</atmosphereDensity>
+			<gravitationalMultiplier>50</gravitationalMultiplier>
+			<orbitalDistance>60</orbitalDistance>
+			<orbitalPhi>36</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Caprica" DIMID="1102">
+			<skyColor>0,0,1</skyColor>
+			<fogColor>0,0,1</fogColor>
+			<atmosphereDensity>100</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>72</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Vogsphere" DIMID="1103">
+			<skyColor>0,0,0</skyColor>
+			<fogColor>0,0,0</fogColor>
+			<atmosphereDensity>100</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>180</orbitalDistance>
+			<orbitalPhi>108</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="4" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Miranda" DIMID="1104">
+			<skyColor>0,0,1</skyColor>
+			<fogColor>0,0,1</fogColor>
+			<atmosphereDensity>100</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>144</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="12" chancePerChunk="10" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Gallifrey" DIMID="1105">
+			<skyColor>0.8,0.3,0</skyColor>
+			<fogColor>0.8,0.3,0</fogColor>
+			<atmosphereDensity>180</atmosphereDensity>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>50</orbitalDistance>
+			<orbitalPhi>180</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="10" chancePerChunk="7" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Krypton" DIMID="1106">
+			<skyColor>0.8,0,0</skyColor>
+			<fogColor>0.8,0,0</fogColor>
+			<atmosphereDensity>180</atmosphereDensity>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>190</orbitalDistance>
+			<orbitalPhi>216</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<biomeIds>advancedrocketry:crystalchasms</biomeIds>
+			<oreGen>
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="10" chancePerChunk="7" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Tatooine" DIMID="1107">
+			<skyColor>0,0,1</skyColor>
+			<fogColor>0.3,0.3,1</fogColor>
+			<atmosphereDensity>200</atmosphereDensity>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>40</orbitalDistance>
+			<orbitalPhi>252</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="8" chancePerChunk="4" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Bespin" DIMID="1108" customIcon="gasgiantred">
+            <GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+            <gas>oxygen</gas>
+			<gas>hydrogen</gas>
+			<orbitalDistance>120</orbitalDistance>
+		</planet>
+		<planet name="Cybertron" DIMID="1109">
+			<skyColor>0,0,0</skyColor>
+			<fogColor>0,0,0</fogColor>
+			<atmosphereDensity>0</atmosphereDensity>
+			<gravitationalMultiplier>50</gravitationalMultiplier>
+			<orbitalDistance>190</orbitalDistance>
+			<orbitalPhi>288</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="12" chancePerChunk="10" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="LV-426" DIMID="1110">
+			<skyColor>0,0,0</skyColor>
+			<fogColor>0,0,0.5</fogColor>
+			<atmosphereDensity>0</atmosphereDensity>
+			<gravitationalMultiplier>86</gravitationalMultiplier>
+			<orbitalDistance>170</orbitalDistance>
+			<orbitalPhi>324</orbitalPhi>
+			<rotationalPeriod>1000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="12" chancePerChunk="10" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="10" chancePerChunk="7" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+		<planet name="Antar" DIMID="1111">
+			<skyColor>0,0,1</skyColor>
+			<fogColor>0.2,0,1</fogColor>
+			<atmosphereDensity>180</atmosphereDensity>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>75</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>12000</rotationalPeriod>
+			<oreGen>
+				<ore block="modernmetals:tantalum_ore" minHeight="30" maxHeight="60" clumpSize="12" chancePerChunk="10" />
+				<ore block="modernmetals:cadmium_ore" minHeight="17" maxHeight="32" clumpSize="10" chancePerChunk="7" />
+				<ore block="basemetals:mercury_ore" minHeight="1" maxHeight="16" clumpSize="8" chancePerChunk="4" />
+				<ore block="modernmetals:zirconium_ore" minHeight="40" maxHeight="80" clumpSize="6" chancePerChunk="1" />
+				<ore block="basemetals:starsteel_ore" minHeight="17" maxHeight="32" clumpSize="8" chancePerChunk="4" />
+			</oreGen>		
+        </planet>
+	</star>
+</galaxy>

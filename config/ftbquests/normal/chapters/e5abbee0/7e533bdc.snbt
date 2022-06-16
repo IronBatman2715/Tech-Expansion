@@ -1,0 +1,22 @@
+{
+	title: "Age 3: Empowering Age",
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"22acaf94"
+	],
+	tasks: [{
+		uid: "4ba562ad",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_empowerer"
+		}]
+	}],
+	rewards: [{
+		uid: "ff33d0d0",
+		type: "command",
+		title: "Age 3 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"actuallyadditions:block_empowerer\",Count:1b,Damage:0s},TrophyName:\"Age 3\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Age 11: Space Age",
+	icon: "libvulpes:structuremachine",
+	x: -1.5d,
+	y: 1.5d,
+	dependencies: [
+		"c5931d83"
+	],
+	tasks: [{
+		uid: "959bc704",
+		type: "item",
+		items: [{
+			item: "libvulpes:structuremachine"
+		}]
+	}],
+	rewards: [{
+		uid: "4486be17",
+		type: "command",
+		title: "Age 11 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"libvulpes:structuremachine\",Count:1b,Damage:0s},TrophyName:\"Age 11\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

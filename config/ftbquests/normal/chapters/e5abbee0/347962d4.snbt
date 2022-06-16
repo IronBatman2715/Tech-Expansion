@@ -1,0 +1,29 @@
+{
+	title: "Creative Fluids",
+	x: 1.0d,
+	y: 3.0d,
+	shape: "octagon",
+	dependencies: [
+		"d1fe31d9"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "1199f911",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock2",
+			tag: {
+				tier: 4
+			},
+			Damage: 11s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c03870ca",
+		type: "command",
+		title: "Creative Fluids Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"mekanism:machineblock2\",Count:1b,Damage:11s},TrophyName:\"Creative Fluids\",TrophyColorRed:255,TrophyColorGreen:215,TrophyColorBlue:0,TrophyVariant:\"gold\"}"
+	}]
+}

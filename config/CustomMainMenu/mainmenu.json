@@ -1,0 +1,190 @@
+{
+  "images": {
+    "modpack": {
+      "image": "te:title.png",
+      "posX": -200,
+      "posY": 20,
+      "width": 400,
+      "height": 100,
+      "alignment": "top_center"
+    }
+  },
+
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "posX": -100,
+      "posY": 48,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 1120,
+      "imageHeight": 112,
+      "texture": "te:bar-iron.png",
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "posX": -100,
+      "posY": 72,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 1120,
+      "imageHeight": 112,
+      "texture": "te:bar-iron.png",
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+
+    "mods": {
+      "text": "fml.menu.mods",
+      "posX": -100,
+      "posY": 96,
+      "width": 200,
+      "height": 20,
+      "imageWidth": 1120,
+      "imageHeight": 112,
+      "texture": "te:bar-iron.png",
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+
+    "support": {
+      "text": "Issues",
+      "posX": -100,
+      "posY": 120,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 544,
+      "imageHeight": 112,
+      "texture": "te:bar-iron-small.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://www.curseforge.com/minecraft/modpacks/tech-expansion/issues"
+      }
+    },
+
+    "modpackInfo": {
+      "text": "Modpack",
+      "posX": 2,
+      "posY": 120,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 544,
+      "imageHeight": 112,
+      "texture": "te:bar-iron-small.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://www.curseforge.com/minecraft/modpacks/tech-expansion"
+      }
+    },
+
+    "options": {
+      "text": "menu.options",
+      "posX": -100,
+      "posY": 156,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 544,
+      "imageHeight": 112,
+      "texture": "te:bar-iron-small.png",
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+
+    "quit": {
+      "text": "menu.quit",
+      "posX": 2,
+      "posY": 156,
+      "width": 98,
+      "height": 20,
+      "imageWidth": 544,
+      "imageHeight": 112,
+      "texture": "te:bar-iron-small.png",
+      "action": {
+        "type": "quit"
+      }
+    },
+
+    "language": {
+      "text": "",
+      "posX": -124,
+      "posY": 156,
+      "width": 20,
+      "height": 20,
+      "imageWidth": 13,
+      "imageHeight": 13,
+      "texture": "te:iron-language.png",
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      }
+    }
+  },
+
+  "labels": {
+    "modpack": {
+      "text": "Tech Expansion 0.2.1",
+      "posX": 2,
+      "posY": -30,
+      "color": -1,
+      "hoverColor": -1,
+      "alignment": "bottom_left"
+    },
+    "forge": {
+      "text": "Forge #forgeversion#",
+      "posX": 2,
+      "posY": -20,
+      "color": -1,
+      "hoverColor": -1,
+      "alignment": "bottom_left"
+    },
+    "modsloaded": {
+      "text": "#modsloaded# Mods Loaded",
+      "posX": 2,
+      "posY": -10,
+      "color": -1,
+      "hoverColor": -1,
+      "alignment": "bottom_left"
+    },
+    "minecraft": {
+      "text": "Minecraft 1.12.2",
+      "posX": -80,
+      "posY": -20,
+      "color": -1,
+      "hoverColor": -1,
+      "alignment": "bottom_right"
+    },
+    "mojang": {
+      "text": "Copyright Mojang AB",
+      "posX": -105,
+      "posY": -10,
+      "color": -1,
+      "hoverColor": -1,
+      "alignment": "bottom_right"
+    }
+  },
+
+  "other": {
+    "splash-text": {
+      "posX": 175,
+      "posY": 110,
+      "color": -256,
+      "alignment": "top_center",
+      "texts": "file:minecraft:texts/splashes.txt"
+    },
+    "background": {
+      "image": "te:background.jpg",
+      "mode": "fill"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Age 3: Empowering Age",
+    "icon": "actuallyadditions:block_empowerer",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The next goal is to get the Empowerer from Actually Additions. It needs a battery from Actually Additions which itself needs a battery (Energy Module) from Calculator. But to get Purified Coal (a fuel with a better burn rate) you need Prunae Seeds to turn into Coal Dust. Prunae seeds can only be planted in an Advanced Greenhouse or better, but you can just craft 9 seeds into 1 Coal Dust."
+        },
+        {
+            "type": "text",
+            "text": "However, Greenhouses are useful for automated farming, so they are suggested. To craft the Basic Greenhouse you need 4 nature products: 1.) Peat from Bog Earth which is placed next to water (within a range of 2 blocks) 2.) Prunae Seeds which you can craft from Seeds, Pumpkin Seeds and Coal Coke with a Calculator 3.) Crystallized Canola Seeds which you get from lasering Canola Seeds with the Atomic Reconstructor 4.) Industrial Hemp Seeds which you get from breaking grass."
+        },
+        {
+            "type": "text",
+            "text": "To activate the Greenhouse you have to supply it with power and the materials shown in the GUI. Now you have basic automatic farming.$(br2)To set the Empowerer up, you also need 4 Display Stands placed on the 4 ends of the Empowerer 3 blocks away and provided with power. The blocks you get through the Atomic Reconstructor can be empowered. Be aware that those need a lot more power than usual (the Crystal Blocks need several Million RF)."
+        },
+        {
+            "type": "text",
+            "text": "You can for now make 3 out of the 6 empowered blocks: Restonia, Palis and Void Crystal; for the other 3 you need to craft the Thermal Centrifuge. Now you can make IC2 Advanced Circuits which enables you to make advanced tools and machines like the Mining Laser and the Thermal Centrifuge which combined with the Ore Washing Plant gives you higher output from your ores and gives you the option to build a Nuclear Reactor."
+        },
+        {
+            "type": "text",
+            "text": "Also you can make the Algorithm Separator from Calculator so that you can make a lot more machines like the Advanced Greenhouse and the Starch Extractor (40 RF/t) which generates power from fuel and Wheat. You can also upgrade the Advanced Greenhouse to the Actually Additions Farmer or the Garden Cloches. Another thing you can do is getting started with Grid Power from ExtraUtils2, using it for automating or using one of the many different generators."
+        },
+        {
+            "type": "text",
+            "text": "You're now also able to generate power from the 4 different kinds of Oil (max 350 RF/t) that Actually Additions adds using the Canola Press, Fermenting Barrel and Oil Generator, as well as other Actually Additions Generators like the Leaf-Eating Generator (50 RF/t), the Bio Reactor (max 256 RF/t) and the Solar Panel (8 RF/t). Mentioning Solar Panel, you can now also craft Solar Panels II. Another way to auto mine resources also opened up, the Vertical Digger."
+        }
+    ]
+}

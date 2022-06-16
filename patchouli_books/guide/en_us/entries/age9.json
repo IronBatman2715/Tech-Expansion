@@ -1,0 +1,19 @@
+{
+    "name": "Age 9: Nuclear Age",
+    "icon": "nuclearcraft:part:10",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "With Mica and End Diamonds, you can now make NuclearCraft machines. Now you can make better use of your Uranium and Thorium to make NuclearCraft reactors.$(br2)First, you should automate the production of radiation scrubbers and radaway. Once you have some protection from radiation, I suggest working towards Californium for maximum energy output."
+        },
+        {
+            "type": "text",
+            "text": "Set aside some of any Plutonium isotope for wyvern cores later. For a lot of materials and energy, you can also start a fusion reactor at this point!$(br2)There is also a nicer way to make steel using NuclearCraft.$(br2)Now that you can craft NuclearCraft's Machine chassis, you are able to start with Applied Energistics 2 as the Inscriber needs it. You should really up your Calculator Circuit production as every"
+        },
+        {
+            "type": "text",
+            "text": "Processor in AE2 needs those. If you didn't make pure Crystals in advance you can spend some power to make them in the Empowerer until you have Crystal Growth Accelerators.$(br2)You can now make the Quantum Quarry from ExtraUtils2 which has the advantage of never having to move and using Silk Touch or Fortune to it."
+        }
+    ]
+}

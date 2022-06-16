@@ -1,0 +1,44 @@
+{
+    "name": "Age 11: Space Age",
+    "icon": "libvulpes:structuremachine",
+    "category": "patchouli:Age Guide",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The goal of this age is to get 5 new ores you need to progress: Mercury, Tantalum, Zirconium, Cadmium, and Star-Steel.$(br2)To get started you need to build a rocket. A rocket can be of any shape and made of any blocks. It just needs Liquid Fuel Tanks and Liquid Fuel Engines, a Guidance Computer and a Seat."
+        },
+        {
+            "type": "text",
+            "text": "The rocket needs to be placed on a square or rectangular Launch Pad and Structure Tower blocks must be placed touching one side of the Launch Pad going up and at least as high as the rocket. You also need a Rocket Assembling Machine placed on one side of the Launch Pad, but not touching it. You can scan the rocket and it tells you if you have enough tanks and engines. If yes, you can click on Build and the rocket forms."
+        },
+        {
+            "type": "text",
+            "text": "Right clicking the rocket should put you in the seat. Once in the rocket, opening its GUI should give you the option to choose the destination in the Guidance Computer - with a Planet Id Chip in its inventory.$(br2)To fuel your rocket, you need a lot of multiblocks. The Holo-Projector should aid you in building those. Sneak right click it to choose a multiblock and right click on the ground to show the projection of the blocks."
+        },
+        {
+            "type": "text",
+            "text": "It only shows one horizontal level at a time, to change the level sneak scroll wheel. Check JEI for which multiblocks you need to create a Tank of Rocket Fuel. Hydrogen, Oxygen and Rocket Fuel are normal liquids and can be piped. To fuel your rocket you can either use a Fueling Station near the Rocket Assembling Machine linked together with the Linker or manually right click the Rocket Fuel on the Rocket."
+        },
+        {
+            "type": "text",
+            "text": "Before you go to space, you need a full Space Suit. You can fill it with Oxygen with a Gas Charge Pad filled with Oxygen. You can also modify the suit in a Suit Workstation with a lot of modules. For example, a jetpack which needs also Pressure Tanks filled with Hydrogen.$(br2)Your first destination is the moon where you can find Dilithium. Dilithium is mainly used as fuel for the Warp Core of the Space Station."
+        },
+        {
+            "type": "text",
+            "text": "A Space Station with a Warp Core is needed to travel to other planets. To build a Space Station you can reuse the Launch Pad or build another one. You just need to replace the Rocket Assembling Machine with a Space Station Assembler. The Space Station has no restrictions and can even be small and expanded later when it is in space (don't form the Warp Core multiblock on Earth). You need to put a Satellite Bay and a Space Station Id Chip in the Space Station Assembler and build it."
+        },
+        {
+            "type": "text",
+            "text": "You then need to build a rocket to deploy the Station in orbit. This unmanned rocket is similar but instead of a Guidance Computer and Seat, it needs a Satellite Bay where you put the Space Station Container in. To launch the unmanned rocket you need a Rocket Monitoring Station linked to the Rocket Assembling Machine. If you put the Station Id Chip in the Guidance Computer you can then fly to your Space Station. Btw, don't lose your Station Id Chip."
+        },
+        {
+            "type": "text",
+            "text": "You can copy it in the Satellite Builder (placed on a Power Input Plug). If you don't want to use Oxygen from your suit on your Space Station you need a closed room with a Oxygen Vent which can be filled automatically with CO2 Scrubbers containing Carbon Collection Cartridges.$(br2)To go to other planets now you need the Warp Core Multiblock in your Space Station fueled with Dilithium Crystals. To select the destination you need a Warp Controller."
+        },
+        {
+            "type": "text",
+            "text": "As shown in JEI: Mercury, Tantalum, Zirconium, and Cadmium are on Mercury, Eris, Mars, and Neptune respectively. You can also go to a different Solar System where every planet has all 4 of these ores but in much rarer quantity. Star-Steel can be found exclusively on any of the planets/moons in Alpha Centauri's solar system. Every solar system other than Sol's will have all of the first 4 ores on every planet/moon. Asteroids will have all 5 ores."
+        }
+    ]
+}

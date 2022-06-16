@@ -1,0 +1,16 @@
+{
+    "name": "Age 13: Draconic Age",
+    "icon": "draconicevolution:draconic_core",
+    "category": "patchouli:Age Guide",
+    "sortnum": 13,
+    "pages": [
+        {
+            "type": "text",
+            "text": "With Refined Obsidian, you can start Draconic Evolution. As you need a lot of draconic cores, automating the creation of quantum entangled singularities is a must. For similar reasons, an automated Witherfarm is recommended. Then you can start making the most powerful tools and weapons in the game as well as the biggest battery and energy storage."
+        },
+        {
+            "type": "text",
+            "text": "For the big Draconium need, you might also consider making an RFTools Dimension for it which you can now unlock. The Dimension Builder is the first end game recipe and needs end game items from 8 different mods. If you're unlucky finding a Mooshroom, you may want to have a look at the Mooshroom Soul Vial recipe."
+        }
+    ]
+}

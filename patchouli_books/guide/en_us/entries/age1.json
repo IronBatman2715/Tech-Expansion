@@ -1,0 +1,27 @@
+{
+    "name": "Age 1: Industrial Age",
+    "icon": "ic2:forge_hammer",
+    "category": "patchouli:Age Guide",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Once you find a few rubber trees and craft the forge hammer, you're ready to build your first machines from Industrialcraft 2. The forge hammer needs treated sticks made from Creosote Oil from the Immerisve Engineering Coke Oven. The next goal is making Steel to be able to craft Flint & Steel to get into the Nether. "
+        },
+        {
+            "type": "text",
+            "text": "Plates need 2 Ingots, so you should make a Metal Former pretty fast and of course a Macerator to double your Ores. The Macerator needs 8 Diamonds and the Metal Former needs 4, so you should go mining for those. Also to be able to craft the Metal Former you need a Compressor first. As a side note, the Storage Crate which is a crafting ingredient for the Metal Former is a great big chest you should consider using."
+        },
+        {
+            "type": "text",
+            "text": "Making an Extractor is also a good investment so that you need less Sticky Resin per Rubber. Solid early game power options beside the normal Generator are Solar Panels, Wind Turbines and later Semifluid Generators that can run on tier 2 Canola Oil. Next on the list is making the Blast Furnace. It needs heat not EU, so you need to craft an Electric Heater filled with at least one coil to convert EU to heat."
+        },
+        {
+            "type": "text",
+            "text": "The wrench is your friend when trying to connect the orange dots of the machines. The Blast Furnace also needs Universal Fluid Cells filled with Air which you can get from a Compressor. Tip: Making multiple Blast Furnaces is recommended. After you've got your first Steel Ingot you should be able to go to the Nether. It is not required to progress to the next age, but going to the Nether enables you to craft Blast Bricks for the Blast Furnace from Immersive Engineering."
+        },
+        {
+            "type": "text",
+            "text": "The Blast Furnace is built similar to the Coke Oven, so you need 27 blocks as well and makes Steel faster and is easier to maintain. Keep the IC2 Blast Furnace running while you're in the Nether as you need a lot of Slag to craft those Bricks."
+        }
+    ]
+}

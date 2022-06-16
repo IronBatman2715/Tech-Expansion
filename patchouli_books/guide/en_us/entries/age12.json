@@ -1,0 +1,20 @@
+{
+    "name": "Age 12: Mechanical Age",
+    "icon": "mekanism:basicblock:8",
+    "category": "patchouli:Age Guide",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "text",
+            "text": "After you have Zirconium you can start with Mekanism as the Steel Casing needs Stainless Steel. Mekanism has its own power system in this modpack, Joules. So you need to start with the Heat Generator to generate power and can then work towards Solar, Wind and Bio Power (which are all heavily tweaked). Later you can use the Gas-Burning Generator, the Turbine and the Fusion Reactor for more power."
+        },
+        {
+            "type": "text",
+            "text": "With Mekanism unlocked, 5x Ore Processing is available. This takes a while to set up but pays off fast if you are always short on a particular resource. The Digital Miner, a Quarry which can target blocks, is also available and very powerful for selecting ores on planets. Fully upgraded Mekanism machines also have the capability to make auto-crafts complete nearly instantly."
+        },
+        {
+            "type": "text",
+            "text": "Once you have a Gas-Burning generator set up, consider setting aside some HDPE pellets as you will need them later."
+        }
+    ]
+}

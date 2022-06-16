@@ -1,0 +1,23 @@
+{
+	title: "Age 10: Technology Age",
+	icon: "techreborn:machine_frame",
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"51507c0c"
+	],
+	tasks: [{
+		uid: "8f06aa4f",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_frame"
+		}]
+	}],
+	rewards: [{
+		uid: "55c4457f",
+		type: "command",
+		title: "Age 10 Trophy",
+		auto: "enabled",
+		command: "/give @p simple_trophies:trophy 1 0 {TrophyItem:{id:\"techreborn:machine_frame\",Count:1b,Damage:0s},TrophyName:\"Age 10\",TrophyColorRed:205,TrophyColorGreen:127,TrophyColorBlue:50,TrophyVariant:\"classic\"}"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Age 0: Stone Age",
+    "icon": "minecraft:cobblestone",
+    "category": "patchouli:Age Guide",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "text",
+            "text": "The first thing you might have noticed is that you can't smelt ores into ingots and you can't smelt wood logs into charcoal. You need to get a Tinker's Construct Smeltery and a Coke Oven for that, respectively. Before you go mining, it is recommended you make a Portal to the Mining World. The Portal needs at least 10 Portal Frames placed like a Nether Portal and activated with the Mining Multitool."
+        },
+        {
+            "type": "text",
+            "text": "Then the first goal is the Tinker's Construct Smeltery. As usual, you need to gather Clay, Sand, and Gravel to craft Grout. Using Tinker's Construct tools is recommended for that. As you can't craft a bucket to get lava to fire the smeltery, you can get a one time use Clay Bucket filled with Lava."
+        },
+        {
+            "type": "text",
+            "text": "Also you don't have Gold for ingot casts, but you can use Aluminum Brass (Bauxite Ore = Aluminum). To mine Bauxite Ore you can either make a vanilla Iron pickaxe by casting a block or make an Iron Pickaxe Head by using a Clay Cast."
+        },
+        {
+            "type": "text",
+            "text": "Don't dump all your ore in the Smeltery, as it doesn't double your ores. It simply smelts them. You have to wait until you have machines to ore multiply. After that you need to build a Coke Oven. Coke Bricks need Seared Bricks and Lavawood which you get by pouring Lava over Wood Planks with the Smeltery. You need 27 blocks in a 3x3x3 cube, so 14 crafting recipes should do the trick. To form the multiblock you right click the center block with a Engineer's Hammer."
+        },
+        {
+            "type": "text",
+            "text": "It may prove useful to craft and use an Akashic tome to keep this book and other manuals together. Simply craft the Akashic tome with any manual to combine."
+        }
+    ]
+}
