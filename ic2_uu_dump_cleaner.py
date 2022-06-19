@@ -1,15 +1,30 @@
 #  IC2 uu dump cleaner
-from os.path import exists
+import os
+import sys
 import re
 
 base_str = "ic2_uu_dump"
 orig_file_name = f"{base_str}.txt"
 clean_file_name = f"{base_str}_cleaned.txt"
 
-# Open original file
-if not exists(orig_file_name):
+# Check original file
+if not os.path.exists(orig_file_name):
     raise Exception(
         f"Original IC2 uu dump file has not been created! Should be named \"{orig_file_name}\"")
+
+# Check clean file
+if os.path.exists(clean_file_name):
+    user_input = input(
+        f"Already generated clean IC2 uu dump file! Overwrite existing {clean_file_name}? (Y/n): ")
+
+    if user_input == "" or user_input.lower() == "y":
+        print(f"Overwriting {clean_file_name}")
+        os.remove(clean_file_name)
+    elif user_input.lower() == "n":
+        print("Exiting program")
+        sys.exit(0)
+    else:
+        raise Exception("Invalid selection")
 
 orig = open(orig_file_name)
 # print(f"Opened original data from: {orig_file_name}")
