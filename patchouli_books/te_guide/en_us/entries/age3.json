@@ -1,7 +1,7 @@
 {
     "name": "Age 3: Empowering Age",
     "icon": "actuallyadditions:block_empowerer",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

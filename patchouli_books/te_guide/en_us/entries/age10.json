@@ -1,7 +1,7 @@
 {
     "name": "Age 10: Technology Age",
     "icon": "techreborn:machine_frame",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "sortnum": 10,
     "pages": [
         {

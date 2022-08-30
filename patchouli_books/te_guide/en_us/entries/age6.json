@@ -1,7 +1,7 @@
 {
     "name": "Age 6: Automation Age",
     "icon": "rftools:machine_frame",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

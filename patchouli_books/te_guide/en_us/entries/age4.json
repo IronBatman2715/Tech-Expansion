@@ -1,7 +1,7 @@
 {
     "name": "Age 4: Farming Age",
     "icon": "forestry:sturdy_machine",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

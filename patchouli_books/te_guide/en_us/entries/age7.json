@@ -1,7 +1,7 @@
 {
     "name": "Age 7: Replication Age",
     "icon": "ic2:te:62",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

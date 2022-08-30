@@ -1,7 +1,7 @@
 {
     "name": "Age 1: Industrial Age",
     "icon": "ic2:forge_hammer",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

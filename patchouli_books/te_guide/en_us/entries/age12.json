@@ -1,7 +1,7 @@
 {
     "name": "Age 12: Mechanical Age",
     "icon": "mekanism:basicblock:8",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "sortnum": 12,
     "pages": [
         {

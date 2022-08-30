@@ -1,6 +1,6 @@
 {
   "inventory": {
     "0:1": "theoneprobe:probenote",
-    "0:0": "patchouli:guide_book,1,0,{\"patchouli:book\":\"patchouli:guide\"}"
+    "0:0": "patchouli:guide_book,1,0,{\"patchouli:book\":\"patchouli:te_guide\"}"
   }
 }

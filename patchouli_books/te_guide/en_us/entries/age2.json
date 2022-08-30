@@ -1,7 +1,7 @@
 {
     "name": "Age 2: Calculation Age",
     "icon": "calculator:calculator",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

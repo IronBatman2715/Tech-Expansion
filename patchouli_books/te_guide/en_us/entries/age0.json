@@ -1,7 +1,7 @@
 {
     "name": "Age 0: Stone Age",
     "icon": "minecraft:cobblestone",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "sortnum": 0,
     "pages": [
         {

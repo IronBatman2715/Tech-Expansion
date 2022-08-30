@@ -1,7 +1,7 @@
 {
     "name": "Age 9: Nuclear Age",
     "icon": "nuclearcraft:part:10",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",

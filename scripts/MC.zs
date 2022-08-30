@@ -2,7 +2,7 @@
 
 //Add recipe for guide and remove book to paper
 recipes.removeByRecipeName("endercore:book_to_paper");
-recipes.addShapeless(<patchouli:guide_book>.withTag({"patchouli:book": "patchouli:guide"}), [<minecraft:book>]);
+recipes.addShapeless(<patchouli:guide_book>.withTag({"patchouli:book": "patchouli:te_guide"}), [<minecraft:book>]);
 
 //Remove Ore Smelting and Charcoal
 furnace.remove(<ore:ingotIron>,<minecraft:iron_ore>);

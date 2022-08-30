@@ -1,7 +1,7 @@
 {
     "name": "Age 5: Ender Age",
     "icon": "enderio:item_material:1",
-    "category": "patchouli:Age Guide",
+    "category": "patchouli:age_guide",
     "pages": [
         {
             "type": "text",
